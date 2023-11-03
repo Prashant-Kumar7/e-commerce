@@ -25,7 +25,8 @@ ul > li {
 }
 
 .pagination{
-  padding: 7%;
+  padding: 1%;
+  padding-top: 7%;
 }
 
 ul >li :hover{
@@ -253,11 +254,11 @@ button{
   background-color: transparent;
 }
 
-@media(max-width :480px){
+@media(max-width :380px){
   .card-container{
     display: flex;
     justify-content: space-evenly;
-    max-width: 13.5rem;
+    max-width: 10.5rem;
     gap: 0px;
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.05), 0 5px 20px rgba(0, 0, 0, 0.1);
 
@@ -269,11 +270,11 @@ button{
   }
 
   .product-title{
-    font-size: 1.125rem;
+    font-size: 1.05rem;
   }
 
   .product-description{
-    font-size: 1rem;
+    font-size: 0.85rem;
   }
 
   .card-container > img {
@@ -288,7 +289,7 @@ button{
   }
 
   .count{
-    font-size: 1rem;
+    font-size: 0.85rem;
   }
 
   .product-price{
@@ -324,6 +325,10 @@ button{
 
   .input-fields > select{
     max-width: max-content;
+  }
+
+  .stars{
+    display : flex;
   }
 
 
