@@ -14,7 +14,7 @@ then enter "npm start" in your terminal to run the app in your browser.
 
 
 #Note from Developer :
---> I have created this app as an assingment from a company for an internship.
+--> I have created this app as an assignment from a company for an internship.
 --> therefore there is no backend of this app. So as of now this app only has a frontend.
 --> But with some more time i will be developing this on a full-scale proper functioning e-commerce website with all the funcationalities.
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------->
